@@ -1,0 +1,7 @@
+01-Terraform-intro/provider.tf 
+02-Terraform-Multiple-instances/provider.tf 
+03-Terraform-Variables/terraform.tfvars
+04-Terraform-list-map/terraform.tfvars
+05-create-ec2-instance-login/terraform.tfvars
+06-Network/terraform.tfvars
+07-Network-without-NatGTW/terraform.tfvars
